@@ -63,9 +63,3 @@ Contributions to this user authentication system are welcome! If you find any is
 
 
 Note: Replace "yourusername" in the License section with your actual username or organization name if you use a different one.
-
-
-License
-
-
-This user authentication system is open-source and available under the MIT License.
