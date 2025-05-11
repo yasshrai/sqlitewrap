@@ -57,9 +57,4 @@ NotValidUsernameAndPassword: Raised when an invalid username or password is prov
 DatabaseNotSelected: Raised when a database is not selected before performing an operation.
 SomethingWentWrong: Raised when an unexpected error occurs.
 
-
-Contribution
-Contributions to this user authentication system are welcome! If you find any issues or have suggestions for improvements, please feel free to create a pull request or open an issue.
-
-
 Note: Replace "yourusername" in the License section with your actual username or organization name if you use a different one.
