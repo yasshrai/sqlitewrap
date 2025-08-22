@@ -133,3 +133,5 @@ dmypy.json
 example.py
 databasenames.csv
 userdetail.csv
+uv.lock
+userdetail.db
