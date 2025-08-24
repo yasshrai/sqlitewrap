@@ -272,7 +272,7 @@ class connect:
         else:
             if check == False:
                 raise NotVerfiedUsernamePassword()
-            elif databasechecker == False:
+            if databasechecker == False:
                 raise DatabaseNotSelected()
 
     def UseDatabase(self, databasen=None):
